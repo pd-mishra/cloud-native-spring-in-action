@@ -10,6 +10,6 @@ public class HomeController {
 	public String getGreeting() {
 		return "Welcome to the book catalog!";
 	}
-	// adding to commit
+	// adding to commit, again
 
 }
